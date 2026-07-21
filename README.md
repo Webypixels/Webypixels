@@ -87,7 +87,7 @@ Click any icon to open that technology.
   <a href="https://www.mongodb.com" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
   <a href="https://firebase.google.com" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
   <a href="https://supabase.com" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
-  <a href="https://www.back4app.com" title="Back4App"><img src="https://img.shields.io/badge/Back4App-3E4348?style=flat-square&logo=parse&logoColor=white" alt="Back4App" height="48" /></a>
+  <a href="https://www.back4app.com" title="Back4App"><img src="https://raw.githubusercontent.com/Webypixels/Webypixels/main/assets/back4app.svg" alt="Back4App" width="48" height="48" /></a>
   <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
 
