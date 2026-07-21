@@ -59,27 +59,37 @@ Click any icon to open that technology.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
   <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://nextjs.org" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
   <a href="https://vuejs.org" title="Vue.js"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" /></a>
+  <a href="https://nuxt.com" title="Nuxt"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt" /></a>
   <a href="https://angular.dev" title="Angular"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
-  <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+
+  ### Mobile
+
+  <a href="https://dart.dev" title="Dart"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
+  <a href="https://flutter.dev" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+  <a href="https://developer.apple.com/ios" title="Native iOS (Swift)"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" /></a>
+  <a href="https://developer.android.com" title="Native Android (Kotlin)"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
 
   ### Backend
 
   <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
   <a href="https://go.dev" title="Go"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
-  <a href="https://www.java.com" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
   <a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
-  <a href="https://isocpp.org" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://laravel.com" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
   <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://expressjs.com" title="Express"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
 
-  ### Data & tools
+  ### Data & BaaS
 
   <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
   <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
   <a href="https://www.mongodb.com" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://firebase.google.com" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
+  <a href="https://supabase.com" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
+  <a href="https://www.back4app.com" title="Back4App"><img src="https://img.shields.io/badge/Back4App-3E4348?style=flat-square&logo=parse&logoColor=white" alt="Back4App" height="48" /></a>
   <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  <a href="https://kernel.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
 
 </div>
 
